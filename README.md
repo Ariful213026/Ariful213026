@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md. Ariful Islam Emon</h1>
-<h3 align="center">A passionate frontend developer from Chittagong,Bangladesh</h3>
+<h3 align="center">A passionate web developer from Chittagong,Bangladesh</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://ariful213026.github.io/portfolio/)
 
